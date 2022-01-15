@@ -1,4 +1,11 @@
-public class FirstApp {
+/**
+ * Java 1. Homework 1
+ * 
+ * @author Anna Trofimova
+ * @version 12.1.2022
+ */
+
+public class Lesson1 {
     public static void main(String[] args) {
         printThreeWords();
         checkSumSign();
