@@ -7,9 +7,9 @@
 
 public class Lesson2 {
     public static void main(String[] args) {
-        System.out.println(within10and20(5, 5));
+        within10and20(5, 5);
         System.out.println(isPositiveOrNegative(-8)); 
-        System.out.println(isNegative(0));  
+        isNegative(0);  
         printWordNTimes("hello", 5);    
     }
 
