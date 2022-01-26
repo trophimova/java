@@ -3,7 +3,7 @@
  * Java 1. Homework 4
  * 
  * @author Anna Trofimova
- * @version 25.1.2022
+ * @version 26.1.2022
  */
 
 import java.util.Random;
